@@ -29,7 +29,7 @@ $ bower install angular-fntable
 Include it in your project:
 
 ```html
-<script src="bower_components/angular-fnTable/angular-fnTable.js"></script>
+<script src="bower_components/angular-fntable/angular-fntable.js"></script>
 ```
 
 Add a dependency:
